@@ -2,6 +2,6 @@
 
 <center>안녕하세요! 난정입니다 😎</center>
 
-<a href="https://betterjeong.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blog-ffffff?style=flat-square&logo=GitHub%20Pages&logoColor=white""/></a>
+<a href="https://betterjeong.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blog-ffffff?style=flat-square&logo=GitHub%20Pages&logoColor=white"></a>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=BetterJeong&show_icons=true&theme=radical)
