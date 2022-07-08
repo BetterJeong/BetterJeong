@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:f6a6a6,100:da96e8&height=300&section=header&text=For%20Better%20Jeong&fontSize=55&animation=fadeIn&fontColor=212121)
+![header](https://capsule-render.vercel.app/api?&type=waving&color=0:f6a6a6,100:da96e8&height=180&section=header&text=For%20Better%20Jeong&fontSize=30&animation=fadeIn&fontColor=212121&fontAlignY=40)
 
 <div align="center">
 
