@@ -11,8 +11,8 @@
 ### main
 
 <img src="https://img.shields.io/badge/Java-5394d9?style=flat-square&labelColor=ffffff">
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&labelColor=ffffff&logo=Spring">
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&labelColor=ffffff&logo=Spring%20Boot">
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&labelColor=ffffff&logo=Spring&logoColor=white">
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&labelColor=ffffff&logo=Spring%20Boot&logoColor=white">
 
 
 ### used at least once
