@@ -8,14 +8,14 @@
 
 ## 💻 Tech Stacks 💻
 
-### main
+### 🛠 main 🛠
 
 <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white">
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
 
 
-### used at least once
+### 📒 used at least once 📒
 
 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white">
@@ -32,7 +32,7 @@
 
 <br>
 <br>
-<br>
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=BetterJeong&show_icons=true&theme=radical)
 
