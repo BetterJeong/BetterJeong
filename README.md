@@ -6,20 +6,20 @@
 
 <br>
 
-## 📚 Recoding 📚
+## Recoding
 
 <a href="https://betterjeong.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blog-494949?style=flat-square&logo=GitHub&logoColor=white?labelColor=ffffff"></a>
 
-## 💻 Tech Stacks 💻
+## Tech Stacks
 
-### 🛠 Main 🛠
+### Main
 
 <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white">
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
 
 
-### 📒 Used at Least Once 📒
+### Used at Least Once
 
 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white">
