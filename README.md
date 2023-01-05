@@ -36,6 +36,6 @@
 
 <br><br>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=BetterJeong&show_icons=true&theme=radical)
+<!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=BetterJeong&show_icons=true&theme=radical)-->
 
 </div>
