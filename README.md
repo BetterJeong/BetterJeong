@@ -40,6 +40,6 @@
 
 <br>
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={eunjeong42na})](https://solved.ac/{eunjeong42na})
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=eunjeong42na)](https://solved.ac/eunjeong42na)
 
 </div>
