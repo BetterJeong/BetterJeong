@@ -36,10 +36,10 @@
 
 <br><br>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=BetterJeong&show_icons=true&theme=radical)
-
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=eunjeong42na)](https://solved.ac/eunjeong42na)
+  
 <br>
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=eunjeong42na)](https://solved.ac/eunjeong42na)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=BetterJeong&show_icons=true&theme=radical)
 
 </div>
